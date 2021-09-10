@@ -1,7 +1,10 @@
-## Olá, Eu sou o Samuel Cardoso
+## Hello, I'm Samuel Cardoso 👋
 
-- 🔭 Atualmente eu trabalho como Psicológo e Neuropsicológo, mas estou em um processo de transição de carreira, e voltando aos poucos para dev back-end.
-- 🌱 Estou estudando Python e JavaScript, e iniciando um curso de Ciências da Computação.
+- 🔭 Bachelor's degree in **Psychology** at UNIUBE
+- 🔭 Postgraduate degree in **Neuropsychology** at Albert Einstein Israelita Hospital
+- 🌱 I’m currently learning **Computer Science - CS50** at Harvard University
+- 🌱 I’m currently learning **Python** ; **Machine Learning** ; **Deep Learning** and **Ethical Hacking**
+- 👯 I’m looking to collaborate on **Open Source** and/or **Ethical Hacking** projects
 
 <div>
   <a href="https://github.com/SamuelPCardoso">
