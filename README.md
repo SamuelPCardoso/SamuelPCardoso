@@ -1,7 +1,7 @@
 ## Hello, I'm Samuel Cardoso 👋
 
-- 🔭 Bachelor's degree in **Psychology** at UNIUBE
-- 🔭 Postgraduate degree in **Neuropsychology** at Albert Einstein Israelita Hospital
+- 🔭 Bachelor's degree in **Psychology** at [UNIUBE](https://uniube.br/)
+- 🔭 Postgraduate degree in **Neuropsychology** at [Albert Einstein Israelita Hospital](https://www.einstein.br/Pages/Home.aspx)
 - 🌱 I’m currently learning **Computer Science - CS50** at Harvard University
 - 🌱 I’m currently learning **Python**, **Machine Learning**, **Deep Learning** and **Ethical Hacking**
 - 👯 I’m looking to collaborate on **Open Source** and/or **Ethical Hacking** projects
