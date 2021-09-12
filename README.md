@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning **Computer Science - CS50** at [Harvard University](https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0)
 - 🌱 I’m currently learning **Python**, **Machine Learning**, **Deep Learning** and **Ethical Hacking**
 - 👯 I’m looking to collaborate on **Open Source** and/or **Ethical Hacking** projects
+- 👯 Staff Member at [LoopRose](https://looprose.com/)
 
 ## 📬 Get in Touch
 
