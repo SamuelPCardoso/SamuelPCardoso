@@ -18,7 +18,6 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Samuel-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Samuel-Django" height="40" width="40" src="https://lh3.googleusercontent.com/proxy/z5yoypL97nx7MUjbwYSZo07sQO0PFysFuZfHkZF2Doj0Smdajpjn4taZGOwJQWmQqSwdthbUcnAEY42KU2sVUMgzG-k">
   <img align="center" alt="Samuel-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
 
