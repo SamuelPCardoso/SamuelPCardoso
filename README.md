@@ -19,7 +19,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Samuel-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Samuel-C" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">
+  <img align="center" alt="Samuel-C" height="40" width="40" src="https://www.pngkit.com/png/detail/101-1010012_c-programming-icon-c-programming-language-logo.png">
   <img align="center" alt="Samuel-C++" height="40" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
   <img align="center" alt="Samuel-C#" height="40" width="40" src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png">
   <img align="center" alt="Samuel-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
