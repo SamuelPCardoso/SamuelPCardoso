@@ -1,27 +1,29 @@
-## Hello, I'm Samuel Cardoso 👋
+# Hello, I'm Samuel Cardoso 👋
 
-- 🔭 Bachelor's degree in **Psychology** at [UNIUBE](https://uniube.br/)
-- 🔭 Postgraduate degree in **Neuropsychology** at [Albert Einstein Israelita Hospital](https://www.einstein.br/Pages/Home.aspx)
-- 🌱 I’m currently learning **Computer Science - CS50** at [Harvard University](https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0)
-- 🌱 I’m currently learning **Ethical Hacking** at [Técnicas de Invasão](https://tecnicasdeinvasao.com/)
-- 🌱 I’m currently learning **Python**, **C**, **C++**, **Hacking**
-- 👯 I’m looking to collaborate on **Open Source** and/or **Ethical Hacking** projects
-- 👯 Staff Member at [iRoseClassic](https://iroseclassic.com/pt)
+Welcome to my digital garden, where psychology meets technology! With a solid background in **Psychology** and **Neuropsychology**, I've embarked on a fascinating journey into the realm of programming, exploring the intersection between human cognition and technology. Currently, I'm deeply immersed in studying **Artificial Intelligence (AI)**, aiming to understand and develop systems that can simulate aspects of human understanding and behavior.
 
-## 📬 Get in Touch
+## 🎓 My Academic Journey
 
-- GitHub: https://github.com/SamuelPCardoso
-- LinkedIn: 
-- E-mail: 
+- **Bachelor's Degree in Psychology** from [UNIUBE](https://uniube.br/)
+- **Postgraduate Degree in Neuropsychology** at [Albert Einstein Israelita Hospital](https://www.einstein.br/Pages/Home.aspx)
 
-##
-![Samuel Cardoso's github stats](https://github-readme-stats.vercel.app/api?username=SamuelPCardoso&show_icons=true&theme=white&include_all_commits=true&count_private=true)
+## 💻 Tech & Coding
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Samuel-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Samuel-C" height="40" width="40" src="https://camo.githubusercontent.com/d3906162b383f428da6952e9da7cf1467cd4ffda1d90283c83b559272ec977dc/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3531322f632d70726f6772616d6d696e672d3536393536342e706e67">
-  <img align="center" alt="Samuel-C++" height="40" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
-  <img align="center" alt="Samuel-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-</div>
+- 🌱 I'm currently deepening my knowledge in **Python**, **C**, **C++**, and exploring the world of **Hacking** with an ethical perspective. **Artificial Intelligence** has become my main focus of study and development, aiming to create AIs that can both simulate aspects of human cognition and offer innovative solutions to complex problems.
+- 👯 I'm looking to collaborate on **Open Source** projects and **Ethical Hacking** initiatives, especially those seeking to explore or integrate AI principles in an ethical and responsible manner.
 
-##
+## 🌟 Projects & Interests
+
+My interest in the intersection of technology and human psychology has grown exponentially, particularly in areas like AI ethics, digital well-being, and how technology can enhance cognitive functions. I am in the process of developing AIs that not only innovate in their technical capabilities but also consider the ethical and social implications of their application. If you're working on projects in these areas or need insights from a psychological perspective on AI, I'd love to collaborate.
+
+## 📬 Let's Connect
+
+- **GitHub:** [SamuelPCardoso](https://github.com/SamuelPCardoso)
+- **LinkedIn:** [Samuel Cardoso](https://www.linkedin.com/in/samuel-cardoso-5a6a231b0/)
+- **E-mail:** [samuelpetros@hotmail.com](mailto:samuelpetros@hotmail.com)
+
+---
+
+![Samuel Cardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelPCardoso&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true)
+
+---
