@@ -23,7 +23,3 @@ My interest in the intersection of technology and human psychology has grown exp
 - **E-mail:** [samuelpetros@hotmail.com](mailto:samuelpetros@hotmail.com)
 
 ---
-
-![Samuel Cardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelPCardoso&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true)
-
----
