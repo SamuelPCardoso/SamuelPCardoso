@@ -1,6 +1,6 @@
 # Hello, I'm Samuel Cardoso 👋
 
-Welcome to my digital garden, where psychology meets technology! With a solid background in **Psychology** and **Neuropsychology**, I've embarked on a fascinating journey into the realm of programming, exploring the intersection between human cognition and technology. Currently, I'm deeply immersed in studying **Artificial Intelligence (AI)**, aiming to understand and develop systems that can simulate aspects of human understanding and behavior.
+Welcome to my profile, where psychology meets technology! With a solid background in **Psychology** and **Neuropsychology**, I've embarked on a fascinating journey into the realm of programming, exploring the intersection between human cognition and technology. Currently, I'm deeply immersed in studying **Artificial Intelligence (AI)**, aiming to understand and develop systems that can simulate aspects of human understanding and behavior.
 
 ## 🎓 My Academic Journey
 
